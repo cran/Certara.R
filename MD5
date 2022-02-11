@@ -1,0 +1,9 @@
+c11c57e5169ab266f8598a53a8f129c0 *DESCRIPTION
+fa7e378f1c05dc59e6ea1ab80bbe6384 *NAMESPACE
+82a619720f8e8d04e492b1613ecf3448 *R/install.R
+411905704fe402cf7bd89c5180e510f8 *README.md
+ab46508ccfc33663bae2e2ca5115fb16 *man/certara_packages.Rd
+c6d451a1761f806085691c4fcae78276 *man/check_certara_package_versions.Rd
+314dab44fece4cd67faea247aa2faabc *man/check_installed_certara_packages.Rd
+55da07a21755663e0249cbd1f9288896 *man/install_certara_packages.Rd
+1c21c70a5315fb504bd3e189987ca94d *man/remove_certara_packages.Rd
